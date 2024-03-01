@@ -13,4 +13,4 @@ Bài được thực hiện theo mô hình MVC
 - Trong Phần View có các thành phần:
   + DangKy: tạo trang đăng ký môn học với các chức năng: Hiển thị thông tin giảng viên, hiển thị các môn học, hiển thị các lớp của các môn học, đăng ký lớp, lưu thông tin giảng viên (đang hoàn thiện)
   + SignIn: tạo trang đăng nhập cho giảng viên bằng UserName và PassWord.
-- Phần Test là để chạy thử chương trình: Chạy file TestModel để thử đăng ký tín chỉ với UserName là Hoang123 và PassWord là Hoang123. 
+- Phần Test là để chạy thử chương trình: Chạy file TestModel để thử đăng ký tín chỉ với UserName là **Hoang123** và PassWord là **Hoang123**. 
