@@ -1,6 +1,9 @@
 Bài tập lớn Lập trình hướng đối tượng
+
 Nhóm trưởng: Trần Duy Việt Hoằng
+
 Thành viên: Nguyễn Tá Đặng Minh, Hà Nam Khánh
+
 Đề bài: tạo 1 chương trình quản lý đăng ký lớp dậy của giảng viên
 
 Bài trên nhóm em đã hoàn thiện 90% chỉ còn phần lưu thông tin đăng ký.
